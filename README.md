@@ -1,5 +1,5 @@
 ### Opa👋
-<p>15</p><br>
+<p>15</p>
 <p>Porto Alegre</p>
 
 <!--
