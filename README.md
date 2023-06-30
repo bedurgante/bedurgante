@@ -1,6 +1,8 @@
 ### Opa👋
 <p>15</p>
-<p>Porto Alegre</p>
+<p>Porto Alegre, rs</p>
+<p>Estudante de Ensino Medio Senac Distrito Criativo</p>
+<img src="https://pa1.aminoapps.com/6540/4ac76d6b4f2e61bd6399a394bcae3b183cd61c8b_hq.gif"
 
 <!--
 **bedurgante/bedurgante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
